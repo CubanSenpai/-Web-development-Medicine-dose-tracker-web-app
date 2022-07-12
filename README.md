@@ -3,7 +3,7 @@ Built with Django 3.2 and Poetry(package management tool)
 
 Installation
 
-"GitClone URL Placed Here"
+gh repo clone CubanSenpai/-Web-development-Medicine-dose-tracker-web-app
 cd medicine-dose-tracker
 poetry install
 after installing all requirements try to run:
